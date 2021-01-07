@@ -24,7 +24,7 @@
 * 프로필 사진과 이름 변경 기능
 * 부적절한 게시물과 이용자 신고, 차단 기능
 * master ID를 활용해 신고된 게시물 관리
-* Appstore : 
+* Appstore : [GoCafeIn](https://apps.apple.com/kr/app/gocafein/id1546540991)
 * 사용 기술
   * Language : `Swift`
   * Framework : `UIKit`, `Firebase Realtime Database`, `Firebase Authentication`, `Firebase Storage`, `GoogleMap`, `CoreLocation`
