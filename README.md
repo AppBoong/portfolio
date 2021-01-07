@@ -27,6 +27,6 @@
 * Appstore : [GoCafeIn](https://apps.apple.com/kr/app/gocafein/id1546540991)
 * 사용 기술
   * Language : `Swift`
-  * Framework : `UIKit`, `Firebase Realtime Database`, `Firebase Authentication`, `Firebase Storage`, `GoogleMap`, `CoreLocation`
+  * Framework : `UIKit`, `Firebase Realtime Database`, `Firebase Authentication`, `Firebase Storage`, `GoogleMaps`, `CoreLocation`
   * Library : `Alamofire`, `KingFisher`
   
