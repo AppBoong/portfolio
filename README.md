@@ -18,20 +18,18 @@
   * Language : `Swift`
   * Framework : `UIKit`,`Realm`, 
   * Library : `Alamofire`, `KingFisher`, `FSPagerView`, `Charts`  
+    
 <img src="https://user-images.githubusercontent.com/67822732/103854401-b0e4ed00-50f3-11eb-9836-417acf216e79.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854400-afb3c000-50f3-11eb-8d76-4c80215f2fb2.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854395-ae829300-50f3-11eb-87ea-e6eac744ca62.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854381-a9254880-50f3-11eb-9c4e-30039eec63ea.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854392-ade9fc80-50f3-11eb-9969-bc1e6152c4c2.png" width="18%" height="18%" title="1" alt="1"></img>
 ### GoCafeIn
-* firebase 를 활용한 카페 리뷰 sns
-* 좋아요 기능과 팔로우 기능
-* 프로필 사진과 이름 변경 기능
-* 부적절한 게시물과 이용자 신고, 차단 기능
-* master ID를 활용해 신고된 게시물 관리
+> firebase 를 활용한 카페 리뷰 sns  
+> 좋아요 기능과 팔로우 기능  
+> 프로필 사진과 이름 변경 기능  
+> 부적절한 게시물과 이용자 신고, 차단 기능  
+> master ID를 활용해 신고된 게시물 관리  
 * Appstore : [GoCafeIn](https://apps.apple.com/kr/app/gocafein/id1546540991)
 * 사용 기술
   * Language : `Swift`
   * Framework : `UIKit`, `Firebase Realtime Database`, `Firebase Authentication`, `Firebase Storage`, `GoogleMaps`, `CoreLocation`
   * Library : `Alamofire`, `KingFisher`  
-<img src="https://user-images.githubusercontent.com/67822732/103854021-d7eeef00-50f2-11eb-81d3-2693b025fccc.jpeg" width="18%" height="18%" title="1" alt="1"></img>
-<img src="https://user-images.githubusercontent.com/67822732/103854006-d1607780-50f2-11eb-8a19-40f6d484b56d.jpeg" width="18%" height="18%" title="1" alt="1"></img>
-<img src="https://user-images.githubusercontent.com/67822732/103854023-d8878580-50f2-11eb-824e-fc768cc69db2.jpeg" width="18%" height="18%" title="1" alt="1"></img>
-<img src="https://user-images.githubusercontent.com/67822732/103854024-d9201c00-50f2-11eb-99b1-ffa0f81e2347.jpeg" width="18%" height="18%" title="1" alt="1"></img>
-<img src="https://user-images.githubusercontent.com/67822732/103854027-d9b8b280-50f2-11eb-9809-c96f628728ab.jpeg" width="18%" height="18%" title="1" alt="1"></img>
+    
+<img src="https://user-images.githubusercontent.com/67822732/103854021-d7eeef00-50f2-11eb-81d3-2693b025fccc.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854006-d1607780-50f2-11eb-8a19-40f6d484b56d.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854023-d8878580-50f2-11eb-824e-fc768cc69db2.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854024-d9201c00-50f2-11eb-99b1-ffa0f81e2347.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854027-d9b8b280-50f2-11eb-9809-c96f628728ab.jpeg" width="18%" height="18%" title="1" alt="1"></img>
