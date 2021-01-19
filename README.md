@@ -26,6 +26,6 @@
 > master ID를 활용해 신고된 게시물 관리  
 * Appstore : [GoCafeIn](https://apps.apple.com/kr/app/gocafein/id1546540991)
 * 사용 언어 : `Swift`   
-  * 사용 기술 : `UIKit`, `Firebase(realtimeDB, Auth, Storage)`, `GoogleMaps`, `CoreLocation`, `Alamofire`, `KingFisher`  
+  * 사용 기술 : `Firebase(realtimeDB, Auth, Storage)`, `GoogleMaps`, `CoreLocation`, `Alamofire`, `KingFisher`  
     
 <img src="https://user-images.githubusercontent.com/67822732/103854021-d7eeef00-50f2-11eb-81d3-2693b025fccc.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854006-d1607780-50f2-11eb-8a19-40f6d484b56d.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854023-d8878580-50f2-11eb-824e-fc768cc69db2.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854024-d9201c00-50f2-11eb-99b1-ffa0f81e2347.jpeg" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854027-d9b8b280-50f2-11eb-9809-c96f628728ab.jpeg" width="18%" height="18%" title="1" alt="1"></img>
