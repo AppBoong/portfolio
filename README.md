@@ -4,11 +4,11 @@
 ---
 * education
   * 경기대학교 화학공학과
-* personal project
-  * 책쳌
-  * GoCafeIn  
+* projects
+  * 책쳌(personal)
+  * GoCafeIn(personal)  
   
-## personal project  
+## projects  
 ### 책쳌  
 > interpark 에서 책 검색 기능  
 > 읽고싶은 책과 읽었던 책을 가상의 책장에 저장하는 기능  
@@ -17,7 +17,7 @@
 * technologies
   * `Swift`
   * `Realm`, `Alamofire`, `KingFisher`, `FSPagerView`, `Charts`     
-* [showDetails](https://github.com/AppBoong/GoCafeInPf/blob/master/README.md)   
+* [showDetails]()   
 
 <img src="https://user-images.githubusercontent.com/67822732/103854401-b0e4ed00-50f3-11eb-9836-417acf216e79.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854400-afb3c000-50f3-11eb-8d76-4c80215f2fb2.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854395-ae829300-50f3-11eb-87ea-e6eac744ca62.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854381-a9254880-50f3-11eb-9c4e-30039eec63ea.png" width="18%" height="18%" title="1" alt="1"></img> <img src="https://user-images.githubusercontent.com/67822732/103854392-ade9fc80-50f3-11eb-9969-bc1e6152c4c2.png" width="18%" height="18%" title="1" alt="1"></img>
 ### GoCafeIn
