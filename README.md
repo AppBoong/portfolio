@@ -1,6 +1,7 @@
 # 이재열
 * email : powerhotdog21@gmail.com
 * github : https://github.com/AppBoong
+* blog : https://appboong.tistory.com/
 ---
 * education
   * 경기대학교 화학공학과
