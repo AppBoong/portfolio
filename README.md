@@ -9,7 +9,7 @@
   * 책쳌(personal)
   * GoCafeIn(personal)  
   
-## projects  
+## Projects  
 ### 책쳌  
 > interpark 에서 책 검색 기능  
 > 읽고싶은 책과 읽었던 책을 가상의 책장에 저장하는 기능  
